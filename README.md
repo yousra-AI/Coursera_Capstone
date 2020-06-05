@@ -1,2 +1,2 @@
-# example
-example of new repository
+# Classification Project
+
